@@ -63,11 +63,29 @@
 }
 ._流程形状 {
 }
+._连接 {
+}
 .box_2 {
 }
 ._图片 {
 }
+.paragraph {
+  text-align:left;
+}
+.heading_1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
 .shape {
+}
+.box_1 {
 }
 .image {
   color:#000000;
